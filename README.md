@@ -1,12 +1,17 @@
-# Projects
-Unified Mentor Web Development Internship Projects
+# Unified Mentor Web Development Internship Projects
 
+## Table of Contents
+- [Basic Calculator](#basic-calculator)
+- [Tic-Tac-Toe Game](#tic-tac-toe-game)
 
-# Basic Calculator
-## Description
+---
+
+## Basic Calculator
+
+### Description
 This is an advanced calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Additionally, it includes advanced features such as square root calculation, percentage calculation, and memory operations (M+, M-, MR, MC). It also handles errors like division by zero and follows the BODMAS order of operations.
 
-## Features
+### Features
 - **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, Division
 - **Square Root Calculation (√)**: Calculate the square root of the current number.
 - **Percentage Calculation (%)**: Calculate the percentage of the current number.
@@ -18,7 +23,7 @@ This is an advanced calculator that performs basic arithmetic operations such as
 - **Clear Display (C)**: Clears the current input.
 - **Error Handling**: Division by zero and invalid operations are handled gracefully.
 
-## How to Use
+### How to Use
 1. **Input Numbers and Operators**:
    - Click the number buttons (0-9) and operator buttons (+, -, *, /) to input numbers and perform calculations.
 2. **Perform Operations**:
@@ -36,12 +41,13 @@ This is an advanced calculator that performs basic arithmetic operations such as
 6. **Error Handling**:
    - If division by zero is attempted, an error message will appear, and the display will be cleared.
 
-## Running the Project
+### Running the Project
 
 1. **Clone the repository**:
    First, clone the project repository to your local machine using the following command:
 
    ```bash
-   git clone [https://github.com/RESH-22/Projects/BASIC CALCULATOR.git](https://github.com/RESH-22/Projects.git)
+  
+
   
 
