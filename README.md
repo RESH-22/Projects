@@ -49,5 +49,30 @@ This is an advanced calculator that performs basic arithmetic operations such as
    ```bash
    https://github.com/RESH-22/Projects.git
 
-  
+# Tic-Tac-Toe Game
+
+## Description
+This is a classic two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players take turns to place either "X" or "O" on a 3x3 grid. The game ends when one player wins by getting three of their symbols in a row, column, or diagonal, or when the game results in a tie. A reset button is provided to restart the game.
+
+## Features
+- **Two-Player Gameplay**: Players take turns to place "X" or "O" on the grid.
+- **Win Detection**: The game checks for a winner after each move.
+- **Tie Detection**: The game ends in a tie if all cells are filled without a winner.
+- **Reset Button**: Allows players to restart the game after a win, tie, or during any time.
+- **Responsive Design**: The game works on both desktop and mobile devices.
+
+## How to Use
+1. **Start the Game**: Open the `index.html` file in your browser.
+2. **Play the Game**: Click on an empty cell to place your symbol ("X" or "O").
+3. **End of Game**: The game will announce the winner or a tie after the game ends.
+4. **Reset the Game**: Click the "Reset Game" button to start a new round.
+
+## Running the Project
+
+1. **Clone the repository**:
+   First, clone the project repository to your local machine using the following command:
+
+   ```bash
+   https://github.com/RESH-22/Projects.git
+
 
