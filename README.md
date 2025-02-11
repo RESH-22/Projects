@@ -42,6 +42,6 @@ This is an advanced calculator that performs basic arithmetic operations such as
    First, clone the project repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/RESH-22/Projects/BASIC CALCULATOR.git
+   git clone [https://github.com/RESH-22/Projects/BASIC CALCULATOR.git](https://github.com/RESH-22/Projects.git)
   
 
