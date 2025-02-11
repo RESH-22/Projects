@@ -1,4 +1,4 @@
-# Unified Mentor Web Development Internship Projects
+# Unified Mentor Web Development Internship Basic Projects
 
 ## Table of Contents
 - [Basic Calculator](#basic-calculator)
